@@ -3,7 +3,7 @@ An Extensible Visual Scripting Tool written in React
 
 ## How to Run
 1. Install dependencies `npm install`
-2. Run the React APplication `npm start`
+2. Run the React Application `npm start`
 
 
 ## How to Use
